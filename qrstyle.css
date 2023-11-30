@@ -1,8 +1,9 @@
 body{
 	width:700px;
-  margin:100px;      
-  padding :80px;
-  background-color:grey;
+  margin:80px;
+	margin-left:300px;
+  padding :100px;
+  background-color:#dce7fa;
 }
 #container{
 	width:275px;
